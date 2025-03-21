@@ -45,7 +45,7 @@ langchain-anthropic==0.3.0
 langchain-aws==0.2.9
 langchain-cohere==0.3.3
 langchain-community==0.3.10
-langchain-core==0.3.22
+langchain-core==0.1.53
 langchain-experimental==0.3.3
 langchain-openai==0.2.11
 langchain-pinecone==0.2.0
