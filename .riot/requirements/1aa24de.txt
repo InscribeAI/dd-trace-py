@@ -13,7 +13,7 @@ certifi==2024.8.30
 coverage[toml]==7.6.7
 exceptiongroup==1.2.2
 fastapi==0.115.5
-h11==0.14.0
+h11==0.16.0
 httpcore==1.0.7
 httpretty==1.1.4
 httpx==0.27.2
